@@ -15,4 +15,4 @@ pip install -r requirements.txt
 # Note
 The default cosine similarity threshold is 0.65. The higher the score, the more similar they are. You can adjust this threshold to meet your needs.
 
-<img width="634" height="485" alt="image" src="https://github.com/user-attachments/assets/4a83505d-4628-42aa-b2c6-fec3e5bc3c97" />
+<img width="634" height="485" alt="image" src="https://github.com/fr0nky0ng/ComfyUI-Face-Comparato/examples/snapshot.png" />
