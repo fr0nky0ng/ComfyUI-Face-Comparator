@@ -21,8 +21,8 @@ class FaceComparator:
     def INPUT_TYPES(s):
         return {
             "required": {
-                "face1": ("IMAGE",),
-                "face2": ("IMAGE",),
+                "image1": ("IMAGE",),
+                "image2": ("IMAGE",),
                 "similarity_threshold": ("FLOAT", {
                     "default": 0.65, 
                     "min": 0.0, 
